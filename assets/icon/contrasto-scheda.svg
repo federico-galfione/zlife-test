@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="62" viewBox="0 0 51 62">
+  <g id="Group_23" data-name="Group 23" transform="translate(-88.927 -652.939)">
+    <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(91.927 657.939)" fill="#fff" stroke="#727272" stroke-width="3">
+      <rect width="45" height="54" rx="7" stroke="none"/>
+      <rect x="-1.5" y="-1.5" width="48" height="57" rx="8.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="21" height="7" rx="3.5" transform="translate(103.927 652.939)" fill="#242424"/>
+    <rect id="Rectangle_42" data-name="Rectangle 42" width="25" height="2" rx="1" transform="translate(96.927 697.939)" fill="#242424"/>
+    <rect id="Rectangle_47" data-name="Rectangle 47" width="7" height="2" rx="1" transform="translate(124.927 697.939)" fill="#242424"/>
+    <rect id="Rectangle_43" data-name="Rectangle 43" width="25" transform="translate(96.927 699.939)" fill="#9b8e6a"/>
+    <rect id="Rectangle_46" data-name="Rectangle 46" width="7" transform="translate(124.927 699.939)" fill="#9b8e6a"/>
+    <rect id="Rectangle_44" data-name="Rectangle 44" width="25" height="2" rx="1" transform="translate(96.927 704.939)" fill="#242424"/>
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="7" height="2" rx="1" transform="translate(124.927 704.939)" fill="#242424"/>
+    <rect id="Rectangle_61" data-name="Rectangle 61" width="5.722" height="21.533" rx="2.861" transform="translate(111.759 667.009)" fill="#242424"/>
+    <rect id="Rectangle_62" data-name="Rectangle 62" width="5.722" height="21.533" rx="2.861" transform="translate(125.463 674.837) rotate(90)" fill="#242424"/>
+  </g>
+</svg>
