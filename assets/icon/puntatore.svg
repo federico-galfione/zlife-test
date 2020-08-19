@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="222" viewBox="0 0 464 190">
+  <g id="puntatore" transform="translate(-148 72) rotate(-45)">
+    <path id="Union_1" data-name="Union 1" d="M311.485,350.4l-14.5,14.5L285.57,353.486l-1.147,2.839L72.1,270.54l23.6-58.412,81.4,32.889L0,67.915,50.912,17l83.5,83.5L220.33,14.585l29.5,29.5L293.915,0,441.7,147.785,423.889,165.6l32.147,32.147-26.275,26.275,18.963,18.963L326.4,365.311Z" transform="translate(214.733 -0.795) rotate(45)" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M432,230V130.154C432,120.128,417.673,112,400,112h0c-17.673,0-32,8.128-32,18.154v63.538" transform="translate(0 84)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path id="Path_2" data-name="Path 2" d="M368,112V57.846C368,52.408,353.673,48,336,48h0c-17.673,0-32,4.408-32,9.846v49.231" transform="translate(0 128)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path id="Path_3" data-name="Path 3" d="M240,254.828V98.5C240,79.446,225.673,64,208,64h0c-17.673,0-32,15.446-32,34.5V340" transform="translate(0 -28)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path id="Path_4" data-name="Path 4" d="M304,100V28c0-6.627-14.327-12-32-12h0c-17.673,0-32,5.373-32,12v72" transform="translate(0 140)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path id="Path_5" data-name="Path 5" d="M432,320c0,117.4-64,176-152,176s-123.71-39.6-144-88L83.33,264c-6.66-18.05-3.64-34.79,11.87-43.6h0c15.52-8.82,35.91-4.28,44.31,11.68L176,320" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  </g>
+</svg>

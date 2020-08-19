@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49.566" height="49.566" viewBox="0 0 49.566 49.566">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="20.153" height="42.934" rx="10.076" fill="#fff" stroke="#d3d3d3" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="pillola" transform="translate(92.059 -258.801) rotate(45)">
+    <g id="Rectangle_32" data-name="Rectangle 32" transform="translate(142 224)" fill="#f8f8f8" stroke="#e91c01" stroke-width="2">
+      <rect width="21.905" height="48.192" rx="10.953" stroke="none"/>
+      <rect x="1" y="1" width="19.905" height="46.192" rx="9.953" fill="none"/>
+    </g>
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(142.876 228.382)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="31.544" height="29.791" transform="translate(-6.133 19.277)" fill="#e91c01"/>
+    </g>
+  </g>
+</svg>
